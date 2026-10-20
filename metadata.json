@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Aléatoire - Arène Rogue Procédurale",
+  "description": "Jeu d'action arcade rogue-lite avec arène procédurale, armes aléatoires, vagues frénétiques et modificateurs de combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
